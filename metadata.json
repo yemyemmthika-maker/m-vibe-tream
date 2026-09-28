@@ -1,0 +1,11 @@
+{
+  "name": "M VibeStream",
+  "description": "Short-form vertical video social platform with For You \u0026 Following feeds, video creation, comments, direct messages, discover, moderation, and admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
